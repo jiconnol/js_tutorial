@@ -1,0 +1,11 @@
+Working on a programming concept to incorporate into the blog I am hoping to publish:
+
+I map of sundial mottos and associated them to each day of the week and then put the result as an alert -
+
+So the idea here is that everyday that someone comes to the site, they will have a new sundial motto for that day
+
+The next part of this concept is that the sundial motto will have an associated riddle and only if the viewer enters in the correct answer to the riddle will they then be able to view the associated blog post
+
+There will be a clue button in the prompt so that people can get a clue to solve the riddle
+
+I was also wondering if you could make it so that there's only a timeframe in which the person can answer the riddle, say only 30 minutes around the afternoon.
